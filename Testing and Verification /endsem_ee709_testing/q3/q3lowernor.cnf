@@ -1,6 +1,0 @@
-c this is for s_a_1 fault for lower NOR 
-c v w u = 1 2 3 
-p cnf 3 3 
--1 -2 0
-1 2 0
--3 3 0 
