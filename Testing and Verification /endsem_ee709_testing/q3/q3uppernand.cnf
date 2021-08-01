@@ -1,0 +1,5 @@
+c this is for s_a_0 for upper nand gate
+c u v w = 1 2 3 
+p cnf 3 2
+-2 1 0
+-1 2 0

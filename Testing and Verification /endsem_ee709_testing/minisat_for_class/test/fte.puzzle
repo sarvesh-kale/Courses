@@ -1,0 +1,7 @@
+c this is a puzzle 
+p cnf 3 4 
+c the form is f,t,e = 1 2 3 
+-1 0
+2 0
+-3 0
+-1 -3 0 

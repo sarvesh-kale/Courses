@@ -1,0 +1,13 @@
+c this is s_a_0 @ lower input of nor 
+c u v w x = 1 2 3 4 
+p cnf 4 8
+-3 -4 0
+3 4 0
+1 -2 0
+-1 2 0
+c everything beyond this is solution 
+1 2 -3 4 0
+1 2 3 -4 0
+-1 -2 3 -4 0
+-1 -2 -3 4 0 
+

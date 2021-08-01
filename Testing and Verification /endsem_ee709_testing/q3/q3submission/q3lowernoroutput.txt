@@ -1,0 +1,6 @@
+s SATISFIABLE
+v -1 2 0
+s SATISFIABLE
+v 1 -2 0
+s SOLUTIONS 2
+u can be anything
